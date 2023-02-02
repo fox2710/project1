@@ -1,0 +1,333 @@
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+@media (max-width: 1024px) {
+    .titleslider img {
+    max-width: 100%;
+   
+}
+  .logo {
+    width: 40%;    
+}
+a.btn {
+    padding: 20px 60px;
+}
+.titleslider {   
+    width: 36%;
+    padding: 50px 100px;    
+}
+.miniblock h3 {    
+    font-size: 20px;    
+}
+.opisblock {
+    min-height: 241px;
+}
+.formbbg h3 {   
+    font-size: 35px;    
+}
+button.btnform {  
+    font-size: 30px;  
+}
+}
+@media (max-width: 800px) {
+.menu ul li {    
+    padding: 46px 9px;
+}
+a.btn {
+    padding: 20px 37px;
+}
+.miniblock h3 {
+    font-size: 20px;
+    min-height: 123px;
+}
+.opisblock {
+    min-height: 362px;
+}
+}
+@media (max-width: 962px) {
+    .menu ul li{
+    padding: 46px 26px;
+}
+ul.benefits li {
+    font-size: 15px;
+}
+.titleslider {
+    width: 56%;
+    padding: 50px 70px;
+}
+}
+@media (max-width: 768px) {
+    .naglovek h2 {
+    margin-top: 46px;
+}
+    header.headerstyle {
+    display: none;
+}
+    .menu ul li {   
+    padding: 46px 15px;   
+}
+.titleslider {
+    width: 100%;
+    padding: 50px;
+}
+.slideimg {
+    width: 0;
+}
+section.slider {
+    background: none;
+}
+.d-none img {
+    display: flow-root;
+}
+.slideimg {
+    width: 100%;
+    display: none;
+}
+.blockforma {   
+    padding-left: 0;
+    width: 100%;
+   
+}
+.slideimg img {
+    width: 100%;
+}
+.slideimg {
+    width: 100%;
+}
+.titleslider {
+    width: 88%;
+    padding: 50px;
+}
+.titleslider p {
+    padding-left: 0;
+    text-align: justify;
+}
+
+ul.benefits li { 
+    padding: 0 30px;   
+}
+.titleslider {
+  
+    width: 100%;
+    padding: 15px;
+}
+.titleslider img {
+    padding: 15px;
+    max-width: 100%;
+    padding-bottom: 30px;
+}
+.titleslider span {
+    text-align: center;
+    display: block;
+}
+.mlogo {
+    text-align: center;
+}
+.miniblock h3 {
+    font-size: 20px;
+    min-height: 120px;
+}
+.opisblock {
+    min-height: 363px;
+}
+.container {
+    /* width: 100%; */
+}
+ul.benefits {
+   
+    margin-bottom: 0;
+}
+section.zamowenie h3 {   
+    width: 70%;   
+}
+.blockforma {
+  
+flex-flow: column;
+  
+}
+   .imgforma {
+    
+    width: 100%;
+}
+.pt-9 {
+    padding-top: 0;
+}
+section.zamowenie h3{
+        padding-left: 15px;
+}
+.button2 {
+    padding-left: 15px;
+}
+.miniblock {
+    
+    width: 100%;
+}
+}
+
+@media (max-width: 680px) {
+ul.benefits li {
+    padding: 0 20px;
+}
+.titleslider .mlogo img {
+    max-width: 50%;
+}
+.titleslider span{
+    font-size: 14px;
+}
+ul.benefits li {
+    font-size: 12px;
+    line-height: 17px;
+}
+.naglovek h2 {
+    font-size: 20px;
+    line-height: 23px;
+}
+p{
+    font-size: 12px;
+    line-height: 20px;
+}
+.titleslider p {
+    font-size: 12px;
+    line-height: 20px;
+}
+a.btn {
+    font-size: 18px;
+    padding: 14px 30%;
+}
+.miniblock h3 {
+    font-size: 20px;
+    line-height: 23px;
+    min-height: auto;
+}
+.block {   
+     margin-top: 40px;
+    flex-flow: column;   
+}
+.opisblock p {
+    font-size: 12px;
+    line-height: 18px;
+}
+.opisblock {
+    min-height: auto;
+}
+.opisblock {
+    padding: 35px 25px;
+}
+.opisblock ul li {
+    font-size: 12px;
+    line-height: 18px;
+}
+section.zamowenie {   
+    margin-top: 50px;   
+}
+section.zamowenie h3 {   
+    font-size: 20px;
+    line-height: 23px;
+    margin-bottom: 25px;
+}
+section.zamowenie{
+    padding: 40px 0;
+}
+a.btn.btnwhite {
+    padding: 10px 35px;
+}
+.naglovek h2 {
+    margin-top: 26px;
+}
+.naglovek h2 {    
+    margin-bottom: 12px;
+}
+.block {
+    margin-top: 27px;
+    flex-flow: column;
+}
+.button {
+    margin-top: 27px;
+}
+.container.minuspadding {
+    padding-right: 0;
+    padding-left: 0;
+}
+.formbbg h3 {
+    font-size: 20px;
+    line-height: 23px;
+}
+.formbbg {
+    padding: 30px 45px;   
+}
+.formbbg p {
+    font-size: 12px;
+    line-height: 16px;
+}
+.formbbg p {
+    padding-bottom: 20px;
+}
+button.btnform{
+    margin-top: 15px;
+}
+button.btnform {
+    font-size: 20px;
+}
+footer {
+    padding: 16px 0;
+    margin-top: 53px;
+}
+form.formzamow input{
+    font-size: 12px;
+    padding: 10px 10px;
+}
+button.btnform {  
+    padding: 6px 0;
+}
+}
+
+@media (max-width: 600px) {
+a.btn {
+    font-size: 18px;
+    padding: 14px 33%;
+}
+}
+
+@media (max-width: 534px) {
+a.btn {
+    font-size: 18px;
+    padding: 14px 29%;
+}
+}
+
+@media (max-width: 375px) {
+a.btn {
+    font-size: 18px;
+    padding: 14px 27%;
+}
+
+}
+@media (max-width: 393px) {
+a.btn {
+    font-size: 18px;
+    padding: 14px 26%;
+}
+}
+
+@media (max-width: 322px) {
+a.btn {
+    font-size: 18px;
+   padding: 14px 22%;
+}
+ul.benefits li {
+    padding: 0 6px;
+}
+}
